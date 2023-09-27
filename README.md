@@ -1,4 +1,4 @@
-<img alt="Git" width="200px" style="padding-right:10px;" src="static/img/bitmoji_hey.png" />
+<img alt="Bitmoji" width="500px" style="padding-right:10px;" src="static/img/bitmoji_hey.png" />
 
 <!--
 **LewisMDillon/LewisMDillon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
