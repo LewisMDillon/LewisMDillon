@@ -64,7 +64,7 @@ Find me on [![LinkedIn][1.1]][1]
 
 ### Escape From Fell Manor 🏰
 <a href="https://github.com/LewisMDillon/escape-from-fell-manor"><img align="right" src="static/img/fell_manor.png" width="250px" alt="Escape From Fell Manor"><a/>
-🖼️ Original retro-style text-adventure game played inside a Python terminal. Player use text input to navigate through the various game elements. Game includes an inventory & combat system as well as a high-score table.
+🖼️ Original retro-style text-adventure game played inside a Python terminal. Player uses text input to navigate through the various game elements. Game includes an inventory & combat system as well as a high-score table.
 <br>
 ⚙️ Technologies Used - Python, HTML5, CSS, JavaScript.
 <br><br><br><br><br><br>
