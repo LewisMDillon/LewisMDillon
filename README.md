@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 
 **`Full-stack sofware development student`**
 
-I'm a full-stack developer in training, always looking to learn and grow. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a full-stack developer in training, always looking to learn and grow. Currently studying at Code Institute in Dublin.
+All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+[![LinkedIn][1.1]][1]
+
+
+Find me on <a href=""><img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /> </a> Here
 
 ---
 
@@ -69,3 +74,7 @@ I'm a full-stack developer in training, always looking to learn and grow. All co
 🖼️ Custom-built Javascript version of the board game, ‘Snakes and Ladders’. Users can play against one another in a two-player game, or one player can play against the computer opponent.
 <br>
 ⚙️ Technologies Used - Javascript, HTML5, CSS
+
+
+[1]: https://www.linkedin.com/in/lewis-dillon/
+[1.1]: https://github.com/LewisMDillon/LewisMDillon/tree/main/static/img/linkedin.png
