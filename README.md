@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 I'm a full-stack developer in training, always looking to learn and grow. Currently studying at Code Institute in Dublin.
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+<br>
 Find me on [![LinkedIn][1.1]][1] 
 
 
@@ -76,4 +77,4 @@ Find me on [![LinkedIn][1.1]][1]
 
 
 [1]: https://www.linkedin.com/in/lewis-dillon/
-[1.1]: https://github.com/LewisMDillon/LewisMDillon/blob/main/static/img/linkedin_cropped.png
+[1.1]: https://github.com/LewisMDillon/LewisMDillon/blob/main/static/img/linkedin.png
