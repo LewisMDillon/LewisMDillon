@@ -47,7 +47,40 @@ I'm a full-stack developer in training, always looking to learn and grow. All co
 | <a href="https://github.com/lewismdillon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lewismdillon&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/lewismdillon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewismdillon&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
- 
+
+
+
+
+## Portfolio Sites
+
+### Chi Sono Io 👨🏽‍🦱
+<a href="https://github.com/Ri-Dearg/chi-sono-io"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/CHI.SONO.IO%20_%20IO.png" alt="Chi-Sono-Io"><a/>
+A draft gallery website for a photography project of mine which has been awarded funding from Caritas Italiana. The aim is to bring public awareness of migrants in Sardinia, which was one of the main locations for disembarking migrants. I want to highlight them not as "migrants" but as people like all of us. This will be done through stories which recall common human emotions and themes, like family or celebration. Unfortunately, due to Covid restrictions, the project has been put on hold indefinitely. Hopefully it will resume next year.
+
+### Bushy Park Tennis Club 🎾
+<a href="https://github.com/LewisMDillon/bushy-park-tennis-club-ld"><img align="right" width="200px" style="padding-top;1000px" src="static/img/bushy_park.png" alt="Bushy Park Tennis Club"></a>
+🖼️ Full-stack site for a tennis club, with user signup and fully functioning booking system
+<br>
+⚙️ Technologies Used - HTML5 , CSS with Bootstrap, JavaScript, Python, Django framework, Postgres DB.
+  
+### Database Focused Showcase - Corona Tales 📓
+<a href="https://github.com/Ri-Dearg/corona-tales"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Corona%20Tales%20_%20Home.png" alt="Database Showcase"><a/>
+A text-based social network built with Flask and MongoDB, featuring a cusomtised text editor, Materialize CSS, a complex search system, tags, ajax forms, likes, infinite scroll, user accounts with complex options, and automated emails. The idea came from the wide variety of unique emotions and experiences people underwent during the pandemic. As always, take a look at the README.md for more info.
+  
+### Frontend Focused Showcase - Horizon Photo 📷
+<a href="https://github.com/Ri-Dearg/horizon-photo"><img align="right" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Horizon%20Photography%20_%20Home.png" alt="Frontend Showcase"><a/>
+A portfolio for a travel blogger built with Bootstrap 4 and Javascript, featuring animations, Google Maps API, REST Countries API, API failure fallback, EmailJS, responsive gallery, progressive image loading and interaction between the current page and an iframe. Imagined as a site with a minimal aesthetic to showcase a phtographer's work. Clciking on a marker swaps the iframe for new photos. Again, take a look at the README.md for more info.
+
+
+## Current Projects ✅
+### Nuragic Shamanic Healing 👨🏽‍🦱
+<a href="https://github.com/Ri-Dearg/chi-sono-io"><a/>
+A live e-commerce website for a holistic business, built with Django and PostgreSQL, favourites, user accounts, automated emails, cookie selection, social network tracking, policies, and a fully functional payment system using Stripe. It features pages for information about the business and a shop in a different section.
+  
+### Chi Sono Io 👨🏽‍🦱
+<a href="https://github.com/Ri-Dearg/chi-sono-io"><img align="left" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/CHI.SONO.IO%20_%20IO.png" alt="Chi-Sono-Io"><a/>
+A draft gallery website for a photography project of mine which has been awarded funding from Caritas Italiana. The aim is to bring public awareness of migrants in Sardinia, which was one of the main locations for disembarking migrants. I want to highlight them not as "migrants" but as people like all of us. This will be done through stories which recall common human emotions and themes, like family or celebration. Unfortunately, due to Covid restrictions, the project has been put on hold indefinitely. Hopefully it will resume next year.
+  
 ## Portfolio Sites 🖼️ 
 ### Bushy Park Tennis Club 🎾
 <a href="https://github.com/LewisMDillon/bushy-park-tennis-club-ld"><img align="right" src="https://github.com/Ri-Dearg/Ri-Dearg/raw/main/Neverlost%20_%20Found%20(1).png" alt="Bushy Park Tennis Club"><a/>
