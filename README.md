@@ -42,6 +42,7 @@ I'm a full-stack developer in training, always looking to learn and grow. All co
 
 #
 
+---
 
 ### 📊 Stats
 
