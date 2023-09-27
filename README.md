@@ -52,20 +52,20 @@ I'm a full-stack developer in training, always looking to learn and grow. All co
 
 ### Bushy Park Tennis Club 🎾
 <a href="https://github.com/LewisMDillon/bushy-park-tennis-club-ld"><img align="right" src="static/img/bushy_park.png" width="250px" alt="Bushy Park Tennis Club"><a/>
-🖼️ Full-stack site for a tennis club, with user signup and fully functioning booking system
+🖼️ Full-stack site for a tennis club. Users can sign up, create custom profiles with profile images, as well as make court reservations using the fully-functioning booking system.
 <br>
 ⚙️ Technologies Used - HTML5, CSS with Bootstrap, JavaScript, Python, Django framework, Postgres DB.
 <br><br><br><br><br><br>
 
 ### Escape From Fell Manor 🏰
 <a href="https://github.com/LewisMDillon/escape-from-fell-manor"><img align="right" src="static/img/fell_manor.png" width="250px" alt="Escape From Fell Manor"><a/>
-🖼️ Original retro-style text-adventure game played inside a Python terminal.
+🖼️ Original retro-style text-adventure game played inside a Python terminal. Player use text input to navigate through the various game elements. Game includes an inventory & combat system as well as a high-score table.
 <br>
 ⚙️ Technologies Used - Python, HTML5, CSS, JavaScript.
 <br><br><br><br><br><br>
 
 ### Snakes and Ladders 🎲
 <a href="https://github.com/LewisMDillon/snakes-and-ladders"><img align="right" src="static/img/snakes_and_ladders.jpg" width="250px" alt="Snakes and Ladders"><a/>
-🖼️ Custom-built Javascript version of the board game, ‘Snakes and Ladders’.
+🖼️ Custom-built Javascript version of the board game, ‘Snakes and Ladders’. Users can play against one another or against a functioning computer opponent.
 <br>
 ⚙️ Technologies Used - Javascript, HTML5, CSS
