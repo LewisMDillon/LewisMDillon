@@ -66,6 +66,6 @@ I'm a full-stack developer in training, always looking to learn and grow. All co
 
 ### Snakes and Ladders 🎲
 <a href="https://github.com/LewisMDillon/snakes-and-ladders"><img align="right" src="static/img/snakes_and_ladders.jpg" width="250px" alt="Snakes and Ladders"><a/>
-🖼️ Custom-built Javascript version of the board game, ‘Snakes and Ladders’. Users can play against one another or against a functioning computer opponent.
+🖼️ Custom-built Javascript version of the board game, ‘Snakes and Ladders’. Users can play against one another in a two-player game, or one player can play against the computer opponent.
 <br>
 ⚙️ Technologies Used - Javascript, HTML5, CSS
