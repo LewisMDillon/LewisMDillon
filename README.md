@@ -76,4 +76,4 @@ Find me on [![LinkedIn][1.1]][1]
 
 
 [1]: https://www.linkedin.com/in/lewis-dillon/
-[1.1]: https://github.com/LewisMDillon/LewisMDillon/blob/main/static/img/linkedin_smaller.png
+[1.1]: https://github.com/LewisMDillon/LewisMDillon/blob/main/static/img/linkedin_cropped.png
