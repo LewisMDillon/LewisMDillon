@@ -77,4 +77,4 @@ Find me on <a href=""><img alt="HTML" width="30px" style="padding-right:10px;" s
 
 
 [1]: https://www.linkedin.com/in/lewis-dillon/
-[1.1]: https://github.com/LewisMDillon/LewisMDillon/tree/main/static/img/linkedin.png
+[1.1]: https://github.com/LewisMDillon/LewisMDillon/blob/main/static/img/linkedin.png
