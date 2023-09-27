@@ -65,7 +65,7 @@ I'm a full-stack developer in training, always looking to learn and grow. All co
 <br><br><br><br><br>
 
 ### Snakes and Ladders 📷
-<a href="https://github.com/LewisMDillon/snakes-and-ladders"><img align="right" src="static/img/snakes_and_ladders.png" width="250px" alt="Frontend Showcase"><a/>
+<a href="https://github.com/LewisMDillon/snakes-and-ladders"><img align="right" src="static/img/snakes_and_ladders.jpg" width="250px" alt="Snakes and Ladders"><a/>
 🖼️ Custom-built Javascript version of the board game, ‘Snakes and Ladders’.
 <br>
 ⚙️ Technologies Used - Javascript, HTML5, CSS
