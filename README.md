@@ -59,14 +59,14 @@ Find me on [![LinkedIn][1.1]][1]
 <a href="https://github.com/LewisMDillon/web-piano-academy"><img align="right" src="static/img/web-piano-academy.png" width="250px" alt="Web Piano Academy"><a/>
 🖼️ Fully fleshed-out e commerce site selling digital piano courses. Users can sign up, and purchase courses using a Stripe payment process secured with Stripe Webhooks. 
 <br>
-⚙️ Technologies Used - HTML5, CSS with Bootstrap, JavaScript, Python, Django framework, Postgres DB.
+⚙️ Technologies Used - HTML5, CSS with Bootstrap, JavaScript, Python, Django framework, Postgres DB, Unittest.
 <br><br><br><br><br><br>
 
 ### Bushy Park Tennis Club 🎾
 <a href="https://github.com/LewisMDillon/bushy-park-tennis-club-ld"><img align="right" src="static/img/bushy_park.png" width="250px" alt="Bushy Park Tennis Club"><a/>
 🖼️ Full-stack site for a tennis club. Users can sign up, create custom profiles with profile images, as well as make court reservations using the fully-functioning booking system.
 <br>
-⚙️ Technologies Used - HTML5, CSS with Bootstrap, JavaScript, Python, Django framework, Postgres DB.
+⚙️ Technologies Used - HTML5, CSS with Bootstrap, JavaScript, Python, Django framework, Postgres DB, Unittest.
 <br><br><br><br><br><br>
 
 ### Escape From Fell Manor 🏰
