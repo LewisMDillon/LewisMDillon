@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
  # Lewis Dillon
 
-**`Full-stack sofware development student`**
+**`Full-Stack Software Developer & Tutor at Code Institute`**
 
-I'm a full-stack developer in training, always looking to learn and grow. Currently studying at Code Institute in Dublin.
+I'm a full-stack developer, always looking to learn and grow. Currently working at Code Institute in Dublin.
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Check out my projects below!
 <br>
 Find me on [![LinkedIn][1.1]][1] 
